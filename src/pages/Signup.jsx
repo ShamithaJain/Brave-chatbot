@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useNavigate, Link } from "react-router-dom";
+import {Link } from "react-router-dom";
 import { useSignUpEmailPassword } from "@nhost/react";
 
 export default function Signup() {
