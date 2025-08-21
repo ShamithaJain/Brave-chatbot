@@ -3,6 +3,9 @@ Brave Chatbot 💬⚡
 An interactive real-time chat application built with React, Nhost (Auth + Backend), GraphQL (Apollo Client), and n8n automation.
 Supports multiple users chatting live with subscriptions, JWT-based authentication, and easy deployment.
 
+## 🚀 Live Demo  
+👉 [Try it here!](https://brave-chatbot.netlify.app)
+
 🚀 Features
 
 🔐 User Authentication (Sign up, Login, Logout) via Nhost
