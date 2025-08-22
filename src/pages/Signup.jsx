@@ -17,7 +17,7 @@ export default function Signup() {
 
   useEffect(() => {
     if (isSuccess) {
-      setMessage("✅ Signup successful! Check your email for verification.");
+      setMessage("✅ Signup successful! You can now login");
     }
   }, [isSuccess]);
 
