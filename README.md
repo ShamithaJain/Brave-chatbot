@@ -5,6 +5,9 @@ Supports multiple users chatting live with subscriptions, JWT-based authenticati
 
 ## 🚀 Live Demo  
 👉 [Try it here!](https://brave-chatbot.netlify.app)
+> ⚠️ Note: The hosted n8n workflow instance was running on a trial account, which has expired.  
+> To run the chatbot, please set up your own n8n instance locally or with a fresh deployment.
+
 
 🚀 Features
 
